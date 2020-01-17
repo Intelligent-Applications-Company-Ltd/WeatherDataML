@@ -1,0 +1,21 @@
+{
+  "name": "datacollection",
+  "version": "1.0.0",
+  "description": "getting weather data",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "node-fetch": "^2.6.0",
+    "underscore": "^1.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weather",
+    "metofice"
+  ],
+  "author": "IACL",
+  "license": "MIT"
+}
